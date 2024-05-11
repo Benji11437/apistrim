@@ -1,0 +1,5 @@
+__pycache__/
+envstrim/
+.gitignore/
+*.envstrim
+*.envstrim.*
